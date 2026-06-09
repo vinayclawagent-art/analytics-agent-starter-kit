@@ -23,6 +23,7 @@ The Codex data-science plugin points to a sellable vertical workflow: raw data t
 
 ## Generated artifacts
 - Prototype: [[../../Prototypes/Analytics Agent Starter Kit/README|Metric Change Investigator prototype]] (`index.html`)
+- Trial packet: [[../../Prototypes/Analytics Agent Starter Kit/First Real Trial Packet|First Real Trial Packet]]
 - Infographic: [[../../Infographics/Analytics Agent Starter Kit Workflow|Analytics Agent Starter Kit Workflow]]
 - Skill draft: [[../../Skills/analytics-agent-starter-kit/SKILL|analytics-agent-starter-kit skill draft]]
 - Improvement loop: [[../../Improvement-Loops/Analytics Agent Starter Kit Loop|Analytics Agent Starter Kit Loop]]
@@ -48,11 +49,12 @@ Validation test: run on one real export and ask whether the memo is good enough 
 ```
 
 ## Improvement backlog
-- Fill the first real trial packet before claiming validation.
+- Fill the first real trial packet before claiming validation. ✅ Template ready; real evidence still pending.
 - Add one example input/output pair from a live VinClawLabs or X-Intel artifact workflow.
 - Decide whether the skill draft should be promoted after two clean runs.
 
 ## Change log
+- 2026-06-09: Added a fillable first real trial packet and wired it into the prototype/package/loop/repo mirror; no validation claimed.
 - 2026-06-09: Created package, prototype, infographic, skill draft, improvement loop, and standalone GitHub repo mirror.
 
 ## GitHub repo
