@@ -15,12 +15,12 @@ Inspired by: /home/vinclaw/Documents/Obsidian/x-intel/Artifacts/Generated-Packag
 ## Quickstart
 Open `prototype/index.html` locally if present, then read the package README and improvement loop before making claims of validation.
 
-For the next real workflow, fill `prototype/First Real Trial Packet.md` with dataset/schema summary, prototype output, human analysis comparison, and a promote / pilot-only / iterate / hold decision.
+For the next real workflow, fill `prototype/First Real Trial Packet.md` with dataset/schema summary, prototype output, and human analysis comparison, then complete `prototype/Promotion Decision Card.md` for the promote / pilot-only / iterate / hold gate.
 
 ## Roadmap
 - Run one real trial using the packet.
 - Attach evidence to the packet.
-- Decide promote / pilot-only / iterate / hold.
+- Decide promote / pilot-only / iterate / hold with the decision card.
 
 ## Contributing
 Keep source links, evidence gates, and no-fabricated-validation wording intact.
