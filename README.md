@@ -24,3 +24,6 @@ For the next real workflow, fill `prototype/First Real Trial Packet.md` with dat
 
 ## Contributing
 Keep source links, evidence gates, and no-fabricated-validation wording intact.
+
+## Latest improvement
+- 2026-06-16: Added `Post-Trial Metric Investigation Debrief Template.md` as a post-trial debrief gate. Prepared, not validated.

@@ -5,8 +5,8 @@ source_package: "[[../Generated-Packages/Analytics Agent Starter Kit/README|Anal
 source_note: "[[../../Tools/Codex Data Science Plugin as an Analytics Agent Template|Codex Data Science Plugin as an Analytics Agent Template]]"
 github_repo: "https://github.com/vinayclawagent-art/analytics-agent-starter-kit"
 cadence: nightly
-last_improved: 2026-06-10
-next_focus: "Use the First Real Trial Packet on one real metric-change investigation, attach dataset/schema summary, prototype output, and human comparison, then complete the Promotion Decision Card before promoting the skill draft."
+last_improved: 2026-06-16
+next_focus: "After the next real metric-change investigation, fill the Post-Trial Metric Investigation Debrief Template before promoting the skill draft."
 tags: [improvement-loop, x-artifact-factory]
 ---
 
@@ -33,3 +33,5 @@ Keep improving the Analytics Agent Starter Kit artifact package until it has at 
 - 2026-06-10: Added the Promotion Decision Card so the next real metric investigation has an explicit promote / pilot-only / iterate / hold gate. Prepared only; no validation proof claimed.
 - 2026-06-09: Added the First Real Trial Packet so the next metric investigation can collect evidence without fabricating validation.
 - 2026-06-09: Created the artifact package and repo mirror; next useful change is evidence wiring for the first real trial.
+
+- 2026-06-16: Added Post-Trial Metric Investigation Debrief Template for the next real trial; template-ready, not validated.

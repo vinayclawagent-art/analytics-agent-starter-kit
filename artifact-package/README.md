@@ -6,7 +6,7 @@ source_url: "https://x.com/zswang24/status/2061891478956421283"
 score: 8
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-09
+last_improved: 2026-06-16
 github_repo: "https://github.com/vinayclawagent-art/analytics-agent-starter-kit"
 tags: [artifact-package, analytics-agents, data-science, codex]
 ---
@@ -50,6 +50,7 @@ Validation test: run on one real export and ask whether the memo is good enough 
 ```
 
 ## Improvement backlog
+- Debrief template: [[Analytics Agent Starter Kit/Post-Trial Metric Investigation Debrief Template]]
 - Fill the first real trial packet before claiming validation. ✅ Template ready; real evidence still pending.
 - Add one example input/output pair from a live VinClawLabs or X-Intel artifact workflow.
 - Decide whether the skill draft should be promoted after two clean runs. ✅ Decision card ready; real evidence still pending.
@@ -62,3 +63,5 @@ Validation test: run on one real export and ask whether the memo is good enough 
 ## GitHub repo
 
 https://github.com/vinayclawagent-art/analytics-agent-starter-kit
+
+- 2026-06-16: Added Post-Trial Metric Investigation Debrief Template for future evidence-to-patch routing; prepared, not validated.
